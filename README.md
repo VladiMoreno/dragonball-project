@@ -45,14 +45,14 @@ bun install
 ## Screenshots
 
 ### Character List Page
-![Character List](./screenshots/characters-list.png)
+![Character List](screenshots/characters-list.png)
 
 ### Character Detail Page
-![Character Detail](./screenshots/character-detail.png)
+![Character Detail](screenshots/character-detail.png)
 
 ### Planets List (with User-Added Planets)
-![Planets List](./screenshots/planets-list.png)
+![Planets List](screenshots/planets-list.png)
 
 ### Planet Registration Form
-![Planet Registration Form](./screenshots/planet-registration-form.png)
+![Planet Registration Form](screenshots/planet-registration-form.png)
 
