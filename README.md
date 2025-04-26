@@ -30,8 +30,8 @@ Make sure you have installed:
 Clone the repository and install the dependencies:
 
 ```bash
-git clone [your-repository-url]
-cd [your-project-folder]
+git clone https://github.com/VladiMoreno/dragonball-project.git
+cd dragonball-project
 
 # Install dependencies
 npm install
